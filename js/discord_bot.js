@@ -24,5 +24,5 @@ client.on("messageCreate", async interaction => {
 })
 
 // client.login(process.env.TOKEN);
-client.login('MTA4MDUxNTQ0OTU2NzA1MTgxOA.GC4b2E.3U6856gn1Gaz2CALSLkCwn4BVd2qkcS54prmN0')
+client.login(TOKEN)
 
